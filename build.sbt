@@ -1,4 +1,4 @@
-name := """sample-akka-app"""
+name := """akka-startup"""
 
 version := "1.0"
 
