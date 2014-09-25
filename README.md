@@ -1,4 +1,4 @@
-sample-akka-app
+akka-startup
 ===============
 
-Sample Akka Project
+Learning Akka
